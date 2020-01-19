@@ -554,10 +554,10 @@ header .go-back i {
 }
 
 .bg-cover:after {
-    
+    /*
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
-    
+    */
 }
 
 .bg-cover:before,
