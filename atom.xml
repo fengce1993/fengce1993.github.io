@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fengce1993.github.io/"/>
-  <updated>2020-01-22T13:14:58.452Z</updated>
+  <updated>2020-01-28T11:38:19.808Z</updated>
   <id>http://fengce1993.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机网络(一)：物理层</title>
+    <link href="http://fengce1993.github.io/2020/01/28/network-2/"/>
+    <id>http://fengce1993.github.io/2020/01/28/network-2/</id>
+    <published>2020-01-28T11:34:28.000Z</published>
+    <updated>2020-01-28T11:38:19.808Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-物理层的基本概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-物理层的基本概念&quot;&gt;&lt;/a&gt; 1
+        
+      
+    
+    </summary>
+    
+      <category term="计算机网络" scheme="http://fengce1993.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="http://fengce1993.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机网络(一)：计算机网络概述</title>
