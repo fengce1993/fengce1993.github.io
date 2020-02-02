@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fengce1993.github.io/"/>
-  <updated>2020-01-30T06:01:45.088Z</updated>
+  <updated>2020-02-02T13:59:35.282Z</updated>
   <id>http://fengce1993.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机网络(四)：网络层(一)</title>
+    <link href="http://fengce1993.github.io/2020/02/02/network-4-1/"/>
+    <id>http://fengce1993.github.io/2020/02/02/network-4-1/</id>
+    <published>2020-02-02T13:56:01.000Z</published>
+    <updated>2020-02-02T13:59:35.282Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-网络层提供的两种服务&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-网络层提供的两种服务&quot;&gt;&lt;/a&gt; 1
+        
+      
+    
+    </summary>
+    
+      <category term="计算机网络" scheme="http://fengce1993.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="http://fengce1993.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机网络(三)：数据链路层</title>
