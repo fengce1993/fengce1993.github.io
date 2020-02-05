@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fengce1993.github.io/"/>
-  <updated>2020-02-03T07:56:21.138Z</updated>
+  <updated>2020-02-05T04:25:20.091Z</updated>
   <id>http://fengce1993.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机网络(六)：运输层</title>
+    <link href="http://fengce1993.github.io/2020/02/05/network-5/"/>
+    <id>http://fengce1993.github.io/2020/02/05/network-5/</id>
+    <published>2020-02-05T04:22:09.000Z</published>
+    <updated>2020-02-05T04:25:20.091Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-运输层协议概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-运输层协议概述&quot;&gt;&lt;/a&gt; 1 运输层协议概述&lt;/h2&gt;
+&lt;h3 id=&quot;11-进程之间的通信&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="计算机网络" scheme="http://fengce1993.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="计算机网络" scheme="http://fengce1993.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机网络(五)：网络层(二)</title>
